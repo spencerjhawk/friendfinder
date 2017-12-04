@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerjhawk/friendfinder.git"
+  },
+  "author": "spencer hawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerjhawk/friendfinder/issues"
+  },
+  "homepage": "https://github.com/spencerjhawk/friendfinder#readme"
+}
